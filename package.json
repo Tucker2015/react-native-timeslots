@@ -1,6 +1,6 @@
 {
   "name": "react-native-timeslots",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/Tucker2015/react-native-timeslots",
   "description": "A simple time slot picker for React Native.",
   "main": "index.js",
