@@ -1,23 +1,23 @@
 ## React Native Time Slot Picker
 
-[![npm version](https://badge.fury.io/js/react-native-time-slot-picker.svg)](https://badge.fury.io/js/react-native-time-slot-picker)
+[![npm version](https://badge.fury.io/js/react-native-timeslots.svg)](https://badge.fury.io/js/react-native-timeslots)
 
 A simple time slot picker for React Native.
 
 ## Installation with NPM
 
 ```bash
-npm install react-native-timeslotpicker --save
+npm install react-native-timeslots --save
 ```
 
 ## Installation with Yarn
 
 ```bash
-yarn add react-native-timeslotpicker
+yarn add react-native-timeslots
 ```
 
 ## Usage
 
 ```javascript
-import TimeSlotPicker from "react-native-timeslotpicker";
+import TimeSlotPicker from "react-native-timeslots";
 ```
